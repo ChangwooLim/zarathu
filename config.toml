@@ -248,19 +248,19 @@ googleAnalytics = "UA-135478021-1"
       [[params.clients]]
         logo = "venture.jpg"
         link = "https://www.mss.go.kr"
-        center = true
+        
       [[params.clients]]
         logo = "snugsph.jpg"
         link = "http://health.snu.ac.kr/"
-        center = true
+       
       [[params.clients]]
         logo = "hwell.jpg"
         link = "https://nhiss.nhis.or.kr/"
-        center = true
+        
       [[params.clients]]
         logo = "hira.jpg"
         link = "http://opendata.hira.or.kr/"
-         center = true       
+          
       [[params.clients]]
         logo = "smc.png"
         link = "http://www.samsunghospital.com/"
