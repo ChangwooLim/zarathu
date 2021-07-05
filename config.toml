@@ -247,7 +247,7 @@ googleAnalytics = "UA-135478021-1"
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.clients]]
         logo = "venture.jpg"
-        link = "https://www.k-startup.go.kr/homepage/businessManage/businessManageFunction.do?sid=111&itemSeq=1060"
+        link = "https://www.mss.go.kr"
 
       [[params.clients]]
         logo = "snugsph.jpg"
