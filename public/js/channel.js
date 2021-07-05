@@ -1,4 +1,3 @@
-
   (function() {
     var w = window;
     if (w.ChannelIO) {
