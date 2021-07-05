@@ -25,7 +25,7 @@ googleAnalytics = "UA-135478021-1"
   email = "jinseob2kim@gmail.com"
 
   # Link custom assets relative to /static
-  custom_css = []
+  custom_css = ["css/agency.css"]
   custom_js  = ["js/channel.js"]
   favicon    = "favicon_anpanman.ico"
 
